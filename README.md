@@ -34,9 +34,6 @@ Reader📖 | <br>Coder🧑‍💻 | <br>Guitarist🎸 | <br>Singer🎙️ | <br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Divyansh0108&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Divyansh0108&icon=2&color=1)](https://visitcount.itsvg.in)
 
