@@ -2,10 +2,12 @@
 
 
 
-<img align="right" alt="Coding" width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY4OTNlODc2ZTQ2Y2NlNTIxNWU3MTEzZTI0YTVhNTBjOThjMDM3NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif">
-
 # 💫 About Me:
 Reader📖 | <br>Coder🧑‍💻 | <br>Guitarist🎸 | <br>Singer🎙️ | <br>Java Developer💫 | <br>5-Star Gold badge Java programmer @Hackerrank🌟 | <br>Tech-Enthusiast💡 | <br>Learner📚 | <br>On the way to something great!🌃
+
+
+<img align="right" alt="Coding" width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY4OTNlODc2ZTQ2Y2NlNTIxNWU3MTEzZTI0YTVhNTBjOThjMDM3NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif">
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100084103938311) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hey.div__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyansh-pandey-13a28a241) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21099791) 
