@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY4OTNlODc2ZTQ2Y2NlNTIxNWU3MTEzZTI0YTVhNTBjOThjMDM3NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="right" alt="Coding" width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY4OTNlODc2ZTQ2Y2NlNTIxNWU3MTEzZTI0YTVhNTBjOThjMDM3NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif">
 
 # 💫 About Me:
 Reader📖 | <br>Coder🧑‍💻 | <br>Guitarist🎸 | <br>Singer🎙️ | <br>Java Developer💫 | <br>5-Star Gold badge Java programmer @Hackerrank🌟 | <br>Tech-Enthusiast💡 | <br>Learner📚 | <br>On the way to something great!🌃
