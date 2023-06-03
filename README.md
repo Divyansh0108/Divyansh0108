@@ -6,7 +6,6 @@
 Reader📖 | <br>Coder🧑‍💻 | <br>Guitarist🎸 | <br>Singer🎙️ | <br>Java Developer💫 | <br>5-Star Gold badge Java programmer @Hackerrank🌟 | <br>Tech-Enthusiast💡 | <br>Learner📚 | <br>On the way to something great!🌃
 
 
-<img align="right" alt="Coding" width="100"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzU5OGQzYzVkMmUwZGVmYTM5M2FhM2JhMTMzMDhhNTE3OTA1MjM1MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CuuSHzuc0O166MRfjt/giphy.gif>
 
 
 ## 🌐 Socials:
