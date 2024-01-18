@@ -3,7 +3,15 @@
 
 
 # 💫 About Me:
-Reader📖 | <br>Coder🧑‍💻 | <br>Guitarist🎸 | <br>Flautist🎶 | <br>Singer🎙️ | <br>Java Developer💫 | <br>5-Star Gold badge Java programmer @Hackerrank🌟 | <br>Artificial Intelligence and Data Science Enthusiast💡 | <br>Learner📚 | <br>On the way to something great!🌃
+Hello! 👋 I'm a dedicated B.Tech student venturing into the fascinating realms of Computer Science and AI at Manipal University Jaipur.
+
+💻 My passion lies in coding, and I'm well-versed in Java, Python, JavaScript, and C, with a bit of Docker thrown in for good measure. Currently, I'm exploring the exciting domains of Machine Learning and Data Science. You'll often find me cracking codes on HackerRank and participating in LeetCode & CodeChef contests, all in the name of sharpening my problem-solving skills.
+
+🎓 Certified in Software Engineering, Oracle Database, and AI, I bring a mix of theoretical knowledge and practical experience to the table. During my time at PW (PhysicsWallah) and Code Casa, I've delved into Java, Git, and Systems Design, gaining hands-on insights into the tech world.
+
+🌐 Now, I'm on the lookout for opportunities that align with my interests – be it Data Science, Machine Learning, MERN Stack, Full Stack, or Java/Python development. I'm eager to dive into internships that promise continuous learning and professional growth.
+
+Let's connect and have a chat about coding, technology, or anything in between! 🚀
 
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzU5OGQzYzVkMmUwZGVmYTM5M2FhM2JhMTMzMDhhNTE3OTA1MjM1MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CuuSHzuc0O166MRfjt/giphy.gif">
 
