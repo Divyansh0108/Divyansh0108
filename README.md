@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hello! 👋 I'm a dedicated B.Tech student in Computer Science and AI at Manipal University Jaipur.<br><br>💻 Passionate about coding, I excel in Java, Python, JavaScript, and C, with experience in Docker and Kubernetes. Currently, I'm delving into Machine Learning and Data Science, often found solving problems on HackerRank, LeetCode, and CodeChef.<br><br>🎓 With certifications in Software Engineering, Oracle Database, and AI, I blend theoretical knowledge with practical experience. My time at PW (PhysicsWallah) and Code Casa has equipped me with hands-on expertise in Java, Git, and Systems Design.<br><br>🌐 Seeking opportunities in Data Science, Machine Learning, MERN Stack, Full Stack, or Java/Python development, I'm eager for internships that foster continuous learning and professional growth.<br><br>Let's connect and discuss coding, technology, or anything in between! 🚀
+Hare Krishna! 🙏
+
+I'm Divyansh Pandey, a passionate and driven B.Tech student in Computer Science and AI at Manipal University Jaipur (CGPA: 8.5). With a strong foundation in programming languages like Python, Java, JavaScript, C, and SQL, I have honed my expertise in data science, machine learning, and full-stack development. My skills extend to frameworks like Flask, Streamlit, and Django, along with DevOps tools such as Docker, GitHub, and CI/CD pipelines.
+
+As an aspiring data scientist, I thrive on solving complex problems, analyzing data, and building innovative solutions. My project experience includes developing a Heart Disease Prediction Model, a Comprehensive Data Analysis Toolkit, and contributing to open-source projects like Micro-Gas Turbine Electrical Energy Prediction. Additionally, I have authored research papers, including one published by Springer Nature, focusing on fitness tracking and AI-driven medical diagnostics.
+
+Eager to take on challenges in data science, machine learning, MERN stack, or backend development, I am actively seeking opportunities to grow my expertise and contribute meaningfully. Let's connect and collaborate to create impactful solutions! 🚀
 
 
 ## 🌐 Socials:
