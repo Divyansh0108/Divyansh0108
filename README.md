@@ -7,6 +7,7 @@ As an aspiring data scientist, I thrive on solving complex problems, analyzing d
 
 Eager to take on challenges in data science, machine learning, MERN stack, or backend development, I am actively seeking opportunities to grow my expertise and contribute meaningfully. Let's connect and collaborate to create impactful solutions! 🚀
 
+[![Peerlist](https://github-readme-badge.peerlist.io/api/divyanshpandey)](https://peerlist.io/divyanshpandey)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyansh-pandey0108) 
